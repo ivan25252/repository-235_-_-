@@ -115,8 +115,8 @@ python-dotenv
 Создайте в корне проекта файл `.env`:
 
 ```env
-MAX_BOT_TOKEN=f9LHodD0cOIAErl-nyBHGtvM7Vx72pH7GrzP9ZF3JccB14ZY0PPgJgxTQ-Jj7o-Z5f3iofeD15pI9bVJ-DKF
-ADMIN_IDS=12345678,87654321
+MAX_BOT_TOKEN=
+ADMIN_IDS=
 DB_PATH=data/scores.db
 ```
 
