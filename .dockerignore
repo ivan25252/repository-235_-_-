@@ -1,4 +1,6 @@
-.env
-.git
+venv/
 __pycache__/
-data/
+*.pyc
+.git/
+.env
+data/*.db
