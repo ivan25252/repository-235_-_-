@@ -26,7 +26,7 @@
 3. Скопируйте URL вашего репозитория и клонируйте его себе (обратите внимание, что вы клонируете именно ваш репозиторий, а не исходный шаблон!):
 
 ```bash
-git clone https://github.com/<ваш-логин>/<название-репозитория>.git
+git clone https://github.com/ivan25252/repository-235_-_-.git
 ```
 
 ## Создайте виртуальное окружение
@@ -114,7 +114,7 @@ python-dotenv
 Создайте в корне проекта файл `.env`:
 
 ```env
-MAX_BOT_TOKEN=ваш_токен_бота
+MAX_BOT_TOKEN=f9LHodD0cOIAErl-nyBHGtvM7Vx72pH7GrzP9ZF3JccB14ZY0PPgJgxTQ-Jj7o-Z5f3iofeD15pI9bVJ-DKF
 ADMIN_IDS=12345678,87654321
 DB_PATH=data/scores.db
 ```
